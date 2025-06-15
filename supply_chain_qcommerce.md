@@ -47,40 +47,40 @@ ultra-fast deliveries typically within 10–30 minutes.
 Role of a Supply Chain Analyst in Q-Commerce
 A Supply Chain Analyst plays a key role in ensuring fast, efficient, and data-driven operations from warehouse to dark stores in a quick commerce environment. The responsibilities include:
 
-1. 📊 Planning & Projection
+1. Planning & Projection
 Analyze sales and order data to create demand forecasts.
 
 Project inventory requirements at both warehouses and dark stores.
 
 Avoid overstocking or stockouts by using data-backed projections.
 
-2. 👷 Manpower Estimation
+2. Manpower Estimation
 Predict the number of pickers, packers, and loaders required per shift.
 
 Ensure optimal workforce planning during high-demand periods (e.g., weekends, festivals).
 
-3. 📦 Picking & Packing Efficiency
+3. Picking & Packing Efficiency
 Track metrics like items picked per hour, packing accuracy, and cycle time.
 
 Recommend layout or process changes to reduce delays and errors.
 
-4. 🚛 Logistics Optimization
+4. Logistics Optimization
 Analyze transportation costs, delivery times, and vehicle utilization.
 
 Recommend route optimizations or zonal mapping to reduce last-mile delays.
 
 Monitor real-time vehicle performance and suggest improvements.
 
-5. ⏱️ Stock Loading Time
+5. ⏱Stock Loading Time
 Measure and improve the turnaround time from item picking to vehicle loading.
 
 Use data to identify bottlenecks and improve dock efficiency.
 
-🔍 Real-Time Conflict Scenario (Problem Solving Skill)
-🧩 Situation:
+Real-Time Conflict Scenario (Problem Solving Skill)
+Situation:
 There is ongoing conflict between the warehouse and dark store teams. The warehouse sends loads on time, but the dark store claims that loads are delayed or not received as expected.
 
-🧠 Analytical Resolution:
+Analytical Resolution:
 As a Supply Chain Analyst, I would:
 
 Implement real-time tracking of vehicle movement using GPS-integrated systems.
@@ -96,7 +96,4 @@ Is nearing the delivery location (geo-fencing)
 Analyze past delivery time logs to find whether the delay lies in dispatch, transit, or receiving.
 
 This ensures transparency, accountability, and removes human bias from the blame loop — helping both teams collaborate better.
-
-## Author
-_Aparna – Aspiring Data Analyst.
 
